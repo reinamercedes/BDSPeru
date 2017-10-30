@@ -2973,40 +2973,52 @@ footer .footer_bottom .copyright a {
     background-color: #0186d5;
 }
 .service_tab #service_tab li:nth-child(1) a span{
-    background-image: url(../../images/icons/service_block/tab/1-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/1.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li:nth-child(2) a span{
-    background-image: url(../../images/icons/service_block/tab/2-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/2.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li:nth-child(3) a span{
-    background-image: url(../../images/icons/service_block/tab/3-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/3.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li:nth-child(4) a span{
-    background-image: url(../../images/icons/service_block/tab/4-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/4.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li:nth-child(5) a span{
-    background-image: url(../../images/icons/service_block/tab/5-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/5.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li:nth-child(6) a span{
-    background-image: url(../../images/icons/service_block/tab/6-g.png);
+    background-image: url(../../images/hts_img/icons_inicio/6.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(1) a span{
-    background-image: url(../../images/icons/service_block/tab/1-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/1.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(2) a span{
-    background-image: url(../../images/icons/service_block/tab/2-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/2.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(3) a span{
-    background-image: url(../../images/icons/service_block/tab/3-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/3.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(4) a span{
-    background-image: url(../../images/icons/service_block/tab/4-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/4.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(5) a span{
-    background-image: url(../../images/icons/service_block/tab/5-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/5.png);
+    background-size: 70%;
 }
 .service_tab #service_tab li.active:nth-child(6) a span{
-    background-image: url(../../images/icons/service_block/tab/6-w.png);
+    background-image: url(../../images/hts_img/icons_inicio/6.png);
+    background-size: 70%;
 }
 .service_tab .tab-content{}
 .service_tab .tab-content .tab-pane{
